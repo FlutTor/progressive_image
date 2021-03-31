@@ -1,3 +1,11 @@
+# [v2.0.0]
+
+**Merged Pull Requests:**
+
+- Migration to Flutter 2 with Nullsafety
+
+Thanks [@FlutTor](https://github.com/FlutTor) by: [@cerberodev](https://github.com/cerberodev)
+
 # [v1.0.1]
 
 **Merged Pull Requests:**
